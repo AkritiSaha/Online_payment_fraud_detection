@@ -41,6 +41,17 @@ The notebook provides:
 - Distribution plots of transaction types and fraud distribution.
 - Correlation heatmaps and feature importance visualizations.
 - Bar plots for value counts and fraud occurrences by transaction type.
-- <img width="567" height="406" alt="Screenshot 2025-10-06 154837" src="https://github.com/user-attachments/assets/8a93cb92-3229-4a4a-a4e4-9e011fc4056b" />
+  
+ <img width="567" height="406" alt="Screenshot 2025-10-06 154837" src="https://github.com/user-attachments/assets/8a93cb92-3229-4a4a-a4e4-9e011fc4056b" />
+ <img width="628" height="403" alt="Screenshot 2025-10-06 154847" src="https://github.com/user-attachments/assets/51b4c48a-82ed-4d3c-b1af-f15af846dd5f" />
+ <img width="1054" height="486" alt="Screenshot 2025-10-06 154900" src="https://github.com/user-attachments/assets/5203fe15-d0c1-4ee1-894f-25ab56bd636a" />
+ <img width="1043" height="577" alt="Screenshot 2025-10-06 154922" src="https://github.com/user-attachments/assets/00ed7be2-9e75-41f5-bc59-8069381bbb01" />
+ <img width="584" height="404" alt="Screenshot 2025-10-06 154936" src="https://github.com/user-attachments/assets/fd61c6ad-3b73-4196-820d-ec3f798dce72" />
+ <img width="579" height="439" alt="Screenshot 2025-10-06 154943" src="https://github.com/user-attachments/assets/ef8e0245-698a-4a5e-9494-25e45f8f11ec" />
+
+
+
+
+
 
 
